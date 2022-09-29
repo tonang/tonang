@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on Web development
 - 📫 How to reach me: <a href="mailto:rizwanaritonang@gmail.com@gmail.com">Email me!</a>  </br>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: fast learner but also bored quickly 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tonang)
 
