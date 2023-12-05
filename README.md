@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Rizwan Aritonang</h1>
-<p>a freelance Front-End Developer specializing in CSS, 
+</br>
+A freelance Front-End Developer specializing in CSS, 
 WordPress, and React. You can explore my work and learn more about my 
-skills at <a href="www.rizwanaritonang.com">www.rizwanaritonang.com</a>. 🚀✨ #CSS #WordPress #ReactJS</p>
+skills at <a href="www.rizwanaritonang.com">www.rizwanaritonang.com</a>. 🚀✨ #CSS #WordPress #ReactJS
 
 
 
