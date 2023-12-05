@@ -2,7 +2,7 @@
 </br>
 A freelance Front-End Developer specializing in CSS, 
 WordPress, and React. You can explore my work and learn more about my 
-skills at <a href="www.rizwanaritonang.com">www.rizwanaritonang.com</a>. 🚀✨ #CSS #WordPress #ReactJS
+skills at <a href="rizwanaritonang.com">www.rizwanaritonang.com</a>. 🚀✨ #CSS #WordPress #ReactJS
 
 
 
