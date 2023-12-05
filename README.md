@@ -2,12 +2,12 @@
 </br>
 A freelance Front-End Developer specializing in CSS, 
 WordPress, and React. You can explore my work and learn more about my 
-skills at <a href="rizwanaritonang.com">www.rizwanaritonang.com</a>. 🚀✨ #CSS #WordPress #ReactJS
+skills at <a href="https://www.rizwanaritonang.com">www.rizwanaritonang.com</a>. 🚀✨ #CSS #WordPress #ReactJS
 
 
 
 - 👯 I’m looking to collaborate on Web development
-- 📫 How to reach me: <a href="mailto:rizwanaritonang@gmail.com@gmail.com">Email me!</a>  </br>
+- 📫 How to reach me: <a href="mailto:rizwanaritonang@gmail.com">Email me!</a>  </br>
 - 😄 Pronouns: He/Him
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tonang)
@@ -20,5 +20,3 @@ skills at <a href="rizwanaritonang.com">www.rizwanaritonang.com</a>. 🚀✨ #CS
     <img src="https://img.shields.io/badge/Code-ReactJS-blue?&logo=ReactJS" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
-
-
